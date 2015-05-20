@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction to LINQ", "CentralPennNET_05192015\Introduction to LINQ.csproj", "{49293596-0F12-4B36-A2E4-2CAFB3F239DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Even Numbers with Enumerable", "Even Numbers with Enumerable\Even Numbers with Enumerable.csproj", "{71E0D9D2-F539-4489-9B7D-4B1E56CAF493}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "List Of Evens With FS", "List Of Evens With FS\List Of Evens With FS.fsproj", "{AC9FC4CB-5B35-49A0-B4CA-DB4564295D9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolution of Delegates", "Evolution of Delegates\Evolution of Delegates.csproj", "{71B05793-11DA-4CC6-8093-8B38046DD3D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expression Trees", "Expression Trees\Expression Trees.csproj", "{43FC3594-AB28-4E59-8D83-7F732DF3960B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person Sort", "Person Sort\Person Sort.csproj", "{2B1EEFED-F173-469C-9B0E-9F42394A8D8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49293596-0F12-4B36-A2E4-2CAFB3F239DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49293596-0F12-4B36-A2E4-2CAFB3F239DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49293596-0F12-4B36-A2E4-2CAFB3F239DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49293596-0F12-4B36-A2E4-2CAFB3F239DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E0D9D2-F539-4489-9B7D-4B1E56CAF493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E0D9D2-F539-4489-9B7D-4B1E56CAF493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E0D9D2-F539-4489-9B7D-4B1E56CAF493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E0D9D2-F539-4489-9B7D-4B1E56CAF493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC9FC4CB-5B35-49A0-B4CA-DB4564295D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9FC4CB-5B35-49A0-B4CA-DB4564295D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9FC4CB-5B35-49A0-B4CA-DB4564295D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9FC4CB-5B35-49A0-B4CA-DB4564295D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B05793-11DA-4CC6-8093-8B38046DD3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B05793-11DA-4CC6-8093-8B38046DD3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B05793-11DA-4CC6-8093-8B38046DD3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B05793-11DA-4CC6-8093-8B38046DD3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43FC3594-AB28-4E59-8D83-7F732DF3960B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43FC3594-AB28-4E59-8D83-7F732DF3960B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43FC3594-AB28-4E59-8D83-7F732DF3960B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43FC3594-AB28-4E59-8D83-7F732DF3960B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B1EEFED-F173-469C-9B0E-9F42394A8D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B1EEFED-F173-469C-9B0E-9F42394A8D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B1EEFED-F173-469C-9B0E-9F42394A8D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B1EEFED-F173-469C-9B0E-9F42394A8D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

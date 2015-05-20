@@ -1,0 +1,6 @@
+C:\Projects\Demo\CentralPennNET_05192015\CentralPennNET_05192015\bin\Debug\CentralPennNET_05192015.exe.config
+C:\Projects\Demo\CentralPennNET_05192015\CentralPennNET_05192015\bin\Debug\CentralPennNET_05192015.exe
+C:\Projects\Demo\CentralPennNET_05192015\CentralPennNET_05192015\bin\Debug\CentralPennNET_05192015.pdb
+C:\Projects\Demo\CentralPennNET_05192015\CentralPennNET_05192015\obj\Debug\CentralPennNET_05192015.csprojResolveAssemblyReference.cache
+C:\Projects\Demo\CentralPennNET_05192015\CentralPennNET_05192015\obj\Debug\CentralPennNET_05192015.exe
+C:\Projects\Demo\CentralPennNET_05192015\CentralPennNET_05192015\obj\Debug\CentralPennNET_05192015.pdb
